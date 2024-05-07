@@ -30,8 +30,7 @@ This project aims to enhance digital security by assessing the robustness of use
 * Operating System
   *	The password strength checker written in Python can run on various operating systems, including Windows, macOS, Linux, etc.
 
-### Criteria for assessing password strength ###
-
+## Criteria for assessing password strength ##
 A password is said to be strong if it satisfies the following criteria: 
   * It contains at least one lowercase English character.
   * It contains at least one uppercase English character.
@@ -40,9 +39,8 @@ A password is said to be strong if it satisfies the following criteria:
   * It contains at least one digit.
 A strong password is one that satisfies all above conditions. A moderate password is one that satisfies first three conditions and has length at least 6. Otherwise password is week.
 
-### Sample demonstration ###
-
+## Sample demonstration ##
 https://github.com/Shristi-17/password-strength-checker/assets/77795561/22176d60-157d-4b1e-8804-81a84cd0f375
 #### This video gives a demonstration on how the program responds for the different types of inputs i.e, passwords. I used them as a sample it works for any other password also. ####
 
-I hope it helped ✌️✌️✌️
+I hope it helped ✌️
